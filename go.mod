@@ -1,4 +1,4 @@
-cdmodule github.com/altafino/bow
+module github.com/altafino/bow
 
 go 1.12
 
